@@ -18,4 +18,16 @@ ng new datatable-example --style=scss
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+```
+ng serve --open --configuration development
+```
+
+## Production server
+
+```
+ng serve --open --configuration production
+```
+
+The above will automatically open your default browser and navigate to `http://localhost:4200/`.
+
+The app will automatically reload if you change any of the source files.
