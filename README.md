@@ -10,7 +10,7 @@ ng new datatable-example --style=scss
 
 ## Additional Dependencies
 
-[Angular Datatables](https://l-lin.github.io/angular-datatables/#/basic/with-options)
+[ngx-datatable](https://github.com/swimlane/ngx-datatable)
 
 [Bootstrap 4.1.3](https://getbootstrap.com/)
 
